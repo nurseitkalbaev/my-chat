@@ -11,8 +11,10 @@
   "author": "Nurseit Kalbaev",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.11.18",
-    "node": "^15.8.0"
+    "node": "^15.8.0",
+    "pusher": "^5.0.0"
   }
 }
